@@ -1,7 +1,6 @@
 <h1 align="center">Game Dev Summer Course</h1>
 <h3 align="center">Hi! I am Laura Oprisan and these are my prototypes for the rapid development track</h3>
 
-<h2 align="center">Projects</h2>
 <table bordercolor="#66b2b2">
 
 <!--second row -->
@@ -10,7 +9,7 @@
       <h3 align="center">Bathhouse Management</h3>
         <br />
         <a target="_blank" href="https://github.com/lauraoprisan/bathhouse-management">
-            <img src="media/bathhouse-management.gif" width="100%" alt="Bathhouse Management Prototype"/>
+            <img src="../lauraoprisan/media/bathhouse-management.gif" width="100%" alt="Bathhouse Management Prototype"/>
         </a>
         <br />
         <p align="center">
