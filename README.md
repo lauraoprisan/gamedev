@@ -9,7 +9,7 @@
       <h3 align="center">Bathhouse Management</h3>
         <br />
         <a target="_blank" href="https://github.com/lauraoprisan/bathhouse-management">
-            <img src="https://github.com/lauraoprisan/lauraoprisan/tree/main/media/bathhouse-management.gif" width="100%" alt="Bathhouse Management Prototype"/>
+            <img src="media/bathhouse-management.gif" width="100%" alt="Bathhouse Management Prototype"/>
         </a>
         <br />
         <p align="center">
